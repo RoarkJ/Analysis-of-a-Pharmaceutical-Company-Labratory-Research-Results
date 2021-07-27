@@ -7,7 +7,7 @@
 
 2.) Geneerated a summary staticstics table consting of mean, median, variance, stardard deviation, and SEM of the tumor volume for each drug regimen.
 
-3.) Generated a bar plot using Panda's DataFrame.plot() and pyplot showing the number of total mice for each treatment regimen throught the course of the study. (The plots should look identical.)
+3.) Generated a bar plot using Panda's DataFrame.plot() and pyplot. The Pandas bar plot showing the number of total mice for each treatment regimen throught the course of the study and the pyplot showing the number of datapoints for each treatment regimen.
 
 4.) Calculated the final tumor volume of each mouse across four of the most promising treatment regimens: Capomulin, Ramicane, Infubinol, and Ceftamin. Calculate the quartiles and IQR and quantitatively determine if there are any potential outliers across all four treatment regimens.
 
